@@ -1,0 +1,14 @@
+· Variables;
+	Las variables son contenedores de datos o valores almacenados en su interior, y dichos datos pueden ser de distintos tipos.
+
+· Strings;
+	Las strings son un tipo de datos, y corresponden a una secuencia de caracteres, sean números o letras, y demás.
+
+· Funciones;
+	Las funciones responden al almacenamiento de una parte del código al cual uno puede volver a referirse para ejecutar sin la necesidad de tener que volver a escribirlo. Estos necesitan (o no) recibir ciertos datos llamados argumentos los cuales procesaría y, luego de escribir una palabra llamada "return", devolvería ciertos tipos de datos, procesados o a procesar.
+
+· Declaraciones if;
+	Hacen referencia a ciertas líneas de código que solamente se ejecutarían en caso de que se cumplan ciertas condiciones, siguiendo una lógica que cita "si x cosa sucede, z cosa sucederá".
+
+· Valores booleanos;
+	Los valores booleanos responden a si ciertas afirmaciones son ciertas o falsas, como por ejemplo si 2 + 2 = 4.
