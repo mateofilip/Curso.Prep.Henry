@@ -1,0 +1,5 @@
+·for;
+	La palabra "for" crea un bucle que consiste en tres partes, las cuales significan su inicio, su final, y los "saltos" que da en el recorrido desde ese inicio al final, a las que luego se le sigue la instrucción que quiere darse.
+
+· &&, ||, !;
+	Indican separadores lógicos, significan "y", "o" y "no" respectivamente, y constituyen la relación entre dos argumentos cuya condición debe cumplirse antes de llevar a cabo algo.
