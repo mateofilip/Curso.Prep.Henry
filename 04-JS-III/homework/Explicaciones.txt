@@ -1,0 +1,2 @@
+· Arrays;
+	Son la emulación de las listas de la vida real en un código, e incluyen en su interior una serie de elementos ordenados siguiendo un criterio del programador.
