@@ -1,0 +1,14 @@
+· Objetos;
+	Los objetos son un tipo de dato en cuyo interior se almacenan distintas propiedades que a su vez están compuestas por otro tipo de datos, pudiendo formar así entidades más complejas. En JavaScript, casi todo es un objeto.
+
+· Propiedades;
+	Constituyen a los objetos y los dotan de carácter propio, de manera tal que uno pueda referirse a un objeto y operar con una o varias de todas las propiedades que lo componen. Las propiedades están compuestas por más datos y estos pueden ser sobreescritos.
+
+· Métodos;
+	Dentro de las propiedades, a los objetos pueden acompañarlos los llamados métodos, que son un grupo de código que realiza una tarea determinada a gusto del programador. Estos métodos, fuera del lenguaje técnico, son referidos como funciones.
+
+· Bucle for... in ;
+	Recorre cada propiedad de un objeto, y a cada una de esas propiedades suele procesársela de alguna manera.
+
+· Notación de puntos vs notación de corchetes;
+	Corresponden a distintas maneras en las que uno puede referirse a cierta propiedad dentro de una función. La notación de corchetes fue la manera más temprana de hacerlo y requiere una escritura apenas más compleja y complicada, a su vez que permite ser usada para ciertas cosas más. La notación de puntos, por su parte, es más sencilla y rápida de escribir, y es preferible en cuanto su uso sea posible, sin embargo, permite menos cosas respecto a la notación de corchetes.
