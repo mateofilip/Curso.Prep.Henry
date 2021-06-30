@@ -1,0 +1,5 @@
+· Prototype;
+	Es una propiedad de cada clase que ayuda a la misma a acceder a ciertos métodos sin la necesidad de que estos tengan que escribirse una y otra vez, ahorrando espacio dentro de la memoria de la computadora.
+
+· Constructors (de Clases);
+	Son un método dentro de una clase para crear más sencillamente un objeto dentro de la clase en cuestión. Sirven como plantilla a ser rellenada por datos que ha de tener cada objeto dentro de una clase.
